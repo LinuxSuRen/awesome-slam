@@ -1,0 +1,4 @@
+name: KITTI
+link: https://www.cvlibs.net/datasets/kitti/
+kind: Dataset
+creator: Karlsruhe Institute of Technology
